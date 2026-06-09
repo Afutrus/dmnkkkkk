@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/web/webInfull.do",
+      "destination": "/web/webInfull.html"
+    }
+  ]
+}
