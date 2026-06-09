@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/web/webInfull.do",
+      "permanent": false
+    }
+  ],
   "rewrites": [
     {
       "source": "/web/webInfull.do",
